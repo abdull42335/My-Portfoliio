@@ -24,7 +24,7 @@ body{
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    /* z-index: 1; */
+
     position: fixed;
     box-shadow: 0px 0px 8px #17233b;
      width: 100%;
